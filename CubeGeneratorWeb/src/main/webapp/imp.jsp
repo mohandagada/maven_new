@@ -1,0 +1,5 @@
+loop
+good
+happy
+:wq
+
